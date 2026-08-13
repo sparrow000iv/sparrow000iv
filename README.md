@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Tushar Kumar 👋
 
 **Final-year CS student @ SRM · Applied ML Engineer · Open to ML/Backend roles in the EU (visa sponsorship)**
