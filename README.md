@@ -38,11 +38,10 @@ I build AI systems end to end — from fine-tuning open-weight LLMs and vision-l
 
 | Project | What it does | Highlight |
 |---|---|---|
-| [Fine-Tuning Open-Weight LLMs with LoRA](https://github.com/sparrow000iv/Fine-Tuning-Open-Weight-LLMs-with-LoRA-for-Document-Understanding) | Document classification & extraction with Mistral-7B / LLaMA-2 | 92% accuracy, 40% GPU memory cut |
-| [Image Forgery Detection](https://github.com/sparrow000iv/Image-Forgery-Detection-using-Deep-Learning-for-Identity-Verification) | Detects tampered identity documents | 94% F1-score on adversarial samples |
-| [Vision-Language Model for Document Intelligence](https://github.com/sparrow000iv/Vision-Language-Model-for-Multimodal-Document-Intelligence) | LLaVA-style VLM for ID-card field extraction | Robust to skew, occlusion, low-res |
-| [Go Document Verification Service](https://github.com/sparrow000iv/Go-DocVerify-Service) | Production-style document verification API | Go microservice with tests |
-
+| [LLM-Eval-Harness](https://github.com/sparrow000iv/LLM-Eval-Harness) | Fine-tuned open-weight LLMs (Mistral-7B, LLaMA-2) with LoRA for document understanding | 92% accuracy, 40% GPU memory cut |
+| [Forgery-Detection](https://github.com/sparrow000iv/Forgery-Detection) | Deep-learning pipeline to detect tampered identity documents | 94% F1-score on adversarial samples |
+| [VLM-Resiliency-Suite](https://github.com/sparrow000iv/VLM-Resiliency-Suite) | LLaVA-style vision-language model for multimodal document intelligence | Robust to skew, occlusion, low-res |
+| [Go-DocVerify-Service](https://github.com/sparrow000iv/Go-DocVerify-Service) | Production-style document verification API | Go microservice with tests |
 ## 📫 Let's connect
 
 - 💼 **Open to:** ML Engineer / Backend Engineer roles in Germany & the EU (relocation + visa sponsorship) or remote
