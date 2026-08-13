@@ -1,11 +1,10 @@
 ![Binary rain](matrix_rain.gif)
+
 # Hi, I'm Tushar Kumar 👋
 
 **Final-year CS student @ SRM · Applied ML Engineer · Open to ML/Backend roles in the EU (visa sponsorship)**
 
-I build AI systems end to end — from fine-tuning open-weight LLMs and vision-language models to shipping them
-behind real services. I'm equally at home in the Linux kernel and the cloud: I've written character-device
-drivers and Device Tree configs *and* Docker/Kubernetes CI/CD pipelines.
+I build AI systems end to end — from fine-tuning open-weight LLMs and vision-language models to shipping them behind real services. I'm equally at home in the Linux kernel and the cloud: I've written character-device drivers and Device Tree configs *and* Docker/Kubernetes CI/CD pipelines.
 
 ---
 
@@ -43,9 +42,13 @@ drivers and Device Tree configs *and* Docker/Kubernetes CI/CD pipelines.
 ## 📫 Let's connect
 
 - 💼 **Open to:** ML Engineer / Backend Engineer roles in Germany & the EU (relocation + visa sponsorship) or remote
-- 📧 **Email:** sparrow000iv@gmail.com
+- 📧 **Email:** [sparrow000iv@gmail.com](mailto:sparrow000iv@gmail.com)
 - 🔗 **LinkedIn:** [tushar-kumar](https://www.linkedin.com/in/tushar-kumar-737a6b303/)
 
 ---
 
 *"I measure success by whether a model actually works in the real world, not by leaderboard numbers."*
+
+<br>
+
+<img align="right" width="140" src="kawaii_cat.gif" alt="cat">
