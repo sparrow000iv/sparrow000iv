@@ -7,7 +7,6 @@ behind real services. I'm equally at home in the Linux kernel and the cloud: I'v
 drivers and Device Tree configs *and* Docker/Kubernetes CI/CD pipelines.
 
 ---
-//![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparrow000iv&show_icons=true&theme=dark)//
 
 ## 🔭 What I work on
 
