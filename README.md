@@ -1,8 +1,12 @@
 ![Binary rain](matrix_rain.gif)
 
-# Hi, I'm Tushar Kumar 👋
+<img src="name_header.png" alt="Tushar Kumar — Applied ML Engineer" width="480">
 
-**Final-year CS student @ SRM · Applied ML Engineer · Open to ML/Backend roles in the EU (visa sponsorship)**
+<img align="right" width="90" src="kawaii_cat.gif" alt="cat">
+
+**Final-year CS student @ SRM · Open to ML/Backend roles in the EU (visa sponsorship)**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2DD4BF&size=22&width=500&lines=Machine+Learning+Engineer;Backend+Engineer;Linux+%26+Systems;Open+to+EU+roles+%2F+Remote)](https://git.io/typing-svg)
 
 I build AI systems end to end — from fine-tuning open-weight LLMs and vision-language models to shipping them behind real services. I'm equally at home in the Linux kernel and the cloud: I've written character-device drivers and Device Tree configs *and* Docker/Kubernetes CI/CD pipelines.
 
@@ -48,7 +52,3 @@ I build AI systems end to end — from fine-tuning open-weight LLMs and vision-l
 ---
 
 *"I measure success by whether a model actually works in the real world, not by leaderboard numbers."*
-
-<br>
-
-<img align="right" width="140" src="kawaii_cat.gif" alt="cat">
