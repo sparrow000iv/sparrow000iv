@@ -1,5 +1,4 @@
-![Binary rain](matrix_rain.gif)# Hi, I'm Tushar Kumar 👋
-
+![Binary rain](matrix_rain.gif)
 **Final-year CS student @ SRM · Applied ML Engineer · Open to ML/Backend roles in the EU (visa sponsorship)**
 
 I build AI systems end to end — from fine-tuning open-weight LLMs and vision-language models to shipping them
